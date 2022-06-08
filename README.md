@@ -5,7 +5,7 @@
 - 📫 How to reach me = marcosantcarvalho99@gmail.com
 
 
-<img src="https://tenor.com/view/forrest-gump-hello-wave-hi-waving-gif-22571528" width="30px">
+<div class="tenor-gif-embed" data-postid="22164679" data-share-method="host" data-aspect-ratio="2" data-width="100%"><a href="https://tenor.com/view/forest-gump-wave-hi-hello-howdy-gif-22164679">Forest Gump Wave GIF</a>from <a href="https://tenor.com/search/forest+gump-gifs">Forest Gump GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
