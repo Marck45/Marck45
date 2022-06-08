@@ -4,7 +4,7 @@
 - 💻Estou voltado ao aprendizado das tecnologias voltadas a desenvolvimente web/mobile como exemplo: HTML, CSS, JavaScript, Java entre outros...
 - 😍Sou um viciado em aprendizado dinamico, novas tecnologias, resolução de conflitos/bugs e melhoria continua.
        
--  
+
 
 
 
