@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on desenvolvimento e manutenção web e mobile.
 - 📫 How to reach me = marcosantcarvalho99@gmail.com
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+<img src="https://media.giphy.com/media/QLKSt3wQqlj7a/giphy.gif" width="29px">
 
-<iframe src="https://giphy.com/embed/QLKSt3wQqlj7a" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QLKSt3wQqlj7a">via GIPHY</a></p>
 
 
 
