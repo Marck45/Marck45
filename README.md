@@ -1,7 +1,7 @@
 - 👋 Oi tudo bem?
 - 😎 Me chamo Marcos Carvalho ou Marck45!
 - 📈Atualmente trabalho na área financeira e estou passando por essa grande migração de carreira para me tornar FullStack Dev!
-- 💻Estou voltado ao aprendizado das tecnologias voltadas a desenvolvimento web/mobile como exemplo: HTML, CSS, JavaScript, Java entre outros...
+- 💻Estou focado no aprendizado das tecnologias voltadas a desenvolvimento web/mobile como exemplo: HTML, CSS, JavaScript, Java entre outros...
 - 😍Sou um viciado em aprendizado dinâmico, novas tecnologias, resolução de conflitos/bugs e melhoria continua.
        
 <br/>
