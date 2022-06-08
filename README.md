@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on desenvolvimento e manutenção web e mobile.
 - 📫 How to reach me = marcosantcarvalho99@gmail.com
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-<div class="tenor-gif-embed" data-postid="22164679" data-share-method="host" data-aspect-ratio="2" data-width="100%"><a href="https://tenor.com/view/forest-gump-wave-hi-hello-howdy-gif-22164679">Forest Gump Wave GIF</a>from <a href="https://tenor.com/search/forest+gump-gifs">Forest Gump GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<iframe src="https://giphy.com/embed/QLKSt3wQqlj7a" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QLKSt3wQqlj7a">via GIPHY</a></p>
 
 
 
