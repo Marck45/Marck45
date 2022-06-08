@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Marck45
-- Tudo tranquilo por ai?
-- 
-- 💞️ I’m looking to collaborate on desenvolvimento e manutenção web e mobile.
-- 📫 How to reach me = marcosantcarvalho99@gmail.com
+- 👋 oi tudo bem?
+- Me chamo Marcos Carvalho ou Marck45
+-  
+
+
 
 <img src="https://media.giphy.com/media/QLKSt3wQqlj7a/giphy.gif" width="29px">
 
@@ -12,6 +12,9 @@
 <br/>
           
 ### Contatos:
+
+
+
 
 <div>
 <a href="https://instagram.com/marckinhotft" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
