@@ -12,6 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: my social medias => 
 -->
 
+  
+<br>  
+<br>  
+<br>  
+<br>  
+
+
 ### Tools and Technologys
 
 
@@ -25,7 +32,10 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
           
-          
+ <br>  
+ <br>  
+ <br>  
+ <br>  
           
             
                     
@@ -39,8 +49,15 @@ Here are some ideas to get you started:
 <a href = "mailto:marcosantcarvalho99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcoscarvalho45/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>       
-          
-          
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+  
           
           
 <div>
@@ -54,6 +71,5 @@ Here are some ideas to get you started:
           
 
 
-![Snake animation](https://github.com/Marck45/Marck45/blob/output/github-contribution-grid-snake.svg)
 
           
